@@ -7,7 +7,7 @@ function App() {
   let movies = ["porco_rosso", "pulp_fiction"];
   const [currentContent, setCurrentContent] = useState({});
   let newSuggestion = () => {
-    let random_movie = Math.ceil(Math.random() * movies.length);
+    let random_movie = Math.floor(Math.random() * movies.length);
     let fileName = ".\\movies\\" + movies[random_movie];
     fetch(`${fileName}.json`)
       .then(response => response.json())
