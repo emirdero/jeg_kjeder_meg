@@ -1,10 +1,17 @@
-image: alpine:latest
+image: node:9.11.1
+
 pages:
-  stage: deploy
   script:
-  - echo 'Nothing to do...'
+  - yarn install
+  - yarn build
+  # The build directory is created based on the value set for projectName in
+  # website/siteConfig.js. If you change it there, you need to change it here
+  # as well.
+  - mv ./build
+
   artifacts:
     paths:
-    - build/
+    - public
+
   only:
   - master
