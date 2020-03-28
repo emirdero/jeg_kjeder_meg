@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import $ from "jquery";
-import { movie_display } from '.\\movie_display.js';
+import { movie_display } from './movie_display.js';
 import './App.css';
 
 function App() {
