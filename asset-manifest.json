@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jeg_kjeder_meg/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jeg_kjeder_meg/static/js/main.7b50cd86.chunk.js",
+    "main.js.map": "/jeg_kjeder_meg/static/js/main.7b50cd86.chunk.js.map",
+    "runtime-main.js": "/jeg_kjeder_meg/static/js/runtime-main.a9d9b534.js",
+    "runtime-main.js.map": "/jeg_kjeder_meg/static/js/runtime-main.a9d9b534.js.map",
+    "static/js/2.9ef0d255.chunk.js": "/jeg_kjeder_meg/static/js/2.9ef0d255.chunk.js",
+    "static/js/2.9ef0d255.chunk.js.map": "/jeg_kjeder_meg/static/js/2.9ef0d255.chunk.js.map",
+    "index.html": "/jeg_kjeder_meg/index.html",
+    "precache-manifest.939ac3790e84838f8631062ce0a7d767.js": "/jeg_kjeder_meg/precache-manifest.939ac3790e84838f8631062ce0a7d767.js",
+    "service-worker.js": "/jeg_kjeder_meg/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jeg_kjeder_meg/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9ef0d255.chunk.js.LICENSE.txt": "/jeg_kjeder_meg/static/js/2.9ef0d255.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d9b534.js",
+    "static/js/2.9ef0d255.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7b50cd86.chunk.js"
+  ]
+}
